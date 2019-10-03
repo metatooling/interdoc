@@ -2,10 +2,12 @@
 Usage
 =====
 
-To use interdoc in a project::
+Hello world.
 
-	import interdoc
 
+
+
+How to use the project.
 
 
 .. raw:: html
