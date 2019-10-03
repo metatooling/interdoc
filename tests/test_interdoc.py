@@ -1,4 +1,3 @@
-
 from click.testing import CliRunner
 
 from interdoc.cli import main

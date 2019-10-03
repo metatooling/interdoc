@@ -10,5 +10,6 @@ Why does this file exist, and why __main__? For more info, read:
 """
 import interdoc.cli
 
+
 if __name__ == "__main__":
     interdoc.cli.cli()
