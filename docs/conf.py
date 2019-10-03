@@ -31,7 +31,7 @@ copyright = "{0}, {1}".format(year, author)
 version = release = "0.1.0"
 
 pygments_style = "trac"
-templates_path = ["."]
+
 extlinks = {
     "issue": ("https://github.com/metatooling/interdoc/issues/%s", "#"),
     "pr": ("https://github.com/metatooling/interdoc/pull/%s", "PR #"),
@@ -41,7 +41,7 @@ on_rtd = os.environ.get("READTHEDOCS", None) == "True"
 
 
 html_theme = "sphinx_rtd_theme"
-html_static_path = ["_static"]
+
 
 html_use_smartypants = True
 html_last_updated_fmt = "%b %d, %Y"
