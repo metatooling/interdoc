@@ -1,9 +1,30 @@
-interdoc
-========
+interdoc package
+================
 
-.. testsetup::
+Submodules
+----------
 
-    from interdoc import *
+interdoc.app module
+-------------------
+
+.. automodule:: interdoc.app
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+interdoc.cli module
+-------------------
+
+.. automodule:: interdoc.cli
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
 
 .. automodule:: interdoc
-    :members:
+   :members:
+   :undoc-members:
+   :show-inheritance:

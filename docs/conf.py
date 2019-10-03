@@ -7,7 +7,7 @@ import os
 extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.napoleon",
-    "sphinx_autodoc_typehints",  # Must come *after* sphinx.ext.napoleon.
+    # "sphinx_autodoc_typehints",  # Must come *after* sphinx.ext.napoleon.
     "sphinx.ext.autosummary",
     "sphinx.ext.coverage",
     "sphinx.ext.doctest",
@@ -39,8 +39,9 @@ extlinks = {
 # on_rtd is whether we are on readthedocs.org
 on_rtd = os.environ.get("READTHEDOCS", None) == "True"
 
-if not on_rtd:  # only set the theme if we"re building docs locally
-    html_theme = "sphinx_rtd_theme"
+
+html_theme = "sphinx_rtd_theme"
+html_static_path = ["_static"]
 
 html_use_smartypants = True
 html_last_updated_fmt = "%b %d, %Y"
