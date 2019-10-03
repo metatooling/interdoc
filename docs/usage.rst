@@ -35,7 +35,7 @@ To use interdoc in a project::
             'pop': new MediumButton({
                label:'POP',
                action: function(html, mark, parent){
-                         alert('hello :)')
+               alert(html)
                          return html
                        }
              })
