@@ -6,8 +6,8 @@ Hello world.
 
 
 
+The project has been edited
 
-How to use the project.
 
 
 .. raw:: html
