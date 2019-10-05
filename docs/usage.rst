@@ -2,7 +2,10 @@
 Usage
 =====
 
-You can edit this page to improve the documentation. Just click on the text you want to edit. Then find your pull request `on GitHub <https://github.com/metatooling/interdoc/pulls>`__.
+You can edit this page inline to improve the documentation. Just click
+on the text you want to edit. Then find your pull request `on
+GitHub <https://github.com/metatooling/interdoc/pulls>`__.
+
 
 
 The code for adding this functionality to your docs is on `this page <https://raw.githubusercontent.com/metatooling/interdoc/master/docs/usage.rst>`__. Keep in mind this is at the proof-of-concept stage.
