@@ -6,8 +6,8 @@ Hello world.
 
 
 
+I am editing this text interactively.
 
-How to use the project.
 
 
 .. raw:: html
