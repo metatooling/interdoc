@@ -4,6 +4,11 @@ Usage
 
 You can edit this page to improve the documentation. Just click on the text you want to edit. Then find your pull request `on GitHub <https://github.com/metatooling/interdoc/pulls>`__.
 
+
+The code for adding this functionality to your docs is on `this page <https://raw.githubusercontent.com/metatooling/interdoc/master/docs/usage.rst>`__. Keep in mind this is at the proof-of-concept stage.
+
+
+
 .. raw:: html
 
     <script src="//cdn.jsdelivr.net/npm/medium-editor@latest/dist/js/medium-editor.min.js"></script>
